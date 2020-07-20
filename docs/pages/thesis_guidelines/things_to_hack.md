@@ -15,6 +15,7 @@ There are many potential targets for security assessments. Here are some suggest
 - Google PlayStore 100M-user apps (https://www.zdnet.com/article/google-adds-all-android-apps-with-100m-installs-to-its-bug-bounty-program/ , https://youtu.be/e9PdX-NmCSg)
 - Open source, like linux, nginx, apache, openssl, kvm, bash, vim, imagemagick, etc.
 - Health-related equipment, such as blood glucose meters, pulse meters, even pace makers, if we can get a hold of one
+- Garmin sports watches seem to feature many attack vectors, e.g. featuring their own app store.
 - Smart power sockets and other home automation equipment
 - Smart glasses, https://www.ebay.com/b/Smart-Glasses/178894/bn_1642259
 - VR headset, https://www.amazon.co.uk/Oculus-Standalone-Virtual-Reality-Headset/dp/B07D7HPSFC
